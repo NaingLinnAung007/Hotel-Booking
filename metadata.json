@@ -1,0 +1,6 @@
+{
+  "name": "Gloden Key Prime Real Booking",
+  "description": "Premium boutique hotel booking platform and hospitality reservation service in Pathein with real-time availability and secure property management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
